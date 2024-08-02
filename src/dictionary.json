@@ -1,0 +1,1633 @@
+[
+ {
+   "Term": "DASA",
+   "Definition": "Dynamic Appraisal of Situational Aggression",
+   "Policy Number": "CLIN001",
+   "Policy Title": "Aggression Assessment, Prevention and Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Irritability",
+   "Definition": "Easily annoyed or angered and unable to tolerate the presence of others.",
+   "Policy Number": "CLIN001",
+   "Policy Title": "Aggression Assessment, Prevention and Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Impulsivity",
+   "Definition": "The inability to remain composed and directed even when under pressure to act; quick to over react to real and imagined slights.",
+   "Policy Number": "CLIN001",
+   "Policy Title": "Aggression Assessment, Prevention and Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Unwillingness to Follow Directions",
+   "Definition": "The acts of resisting, deferring, or complaining vigorously when asked to do something by others; refusal to comply with requests or directions.",
+   "Policy Number": "CLIN001",
+   "Policy Title": "Aggression Assessment, Prevention and Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Sensitive to Perceived Provocation",
+   "Definition": "Tends to see others� actions as deliberate and harmful; may misinterpret other people�s behavior or respond with anger in a disproportionate manner to the extent of provocation (prickly, oversensitive, and quick to anger).",
+   "Policy Number": "CLIN001",
+   "Policy Title": "Aggression Assessment, Prevention and Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Easily Angered When Requests Denied",
+   "Definition": "Tends to become angry when requests are not granted immediately. Do not accept the delay in gratification of the request, may become surly, angry, or aggressive.",
+   "Policy Number": "CLIN001",
+   "Policy Title": "Aggression Assessment, Prevention and Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Negative Attitudes",
+   "Definition": "Definite/serious negative attitude exhibited. Is remorseless, callous, and lacking in empathy when discussing past violence. Includes sadistic, homicidal, or paranoid attitudes. Does not refer to occasional pessimism.",
+   "Policy Number": "CLIN001",
+   "Policy Title": "Aggression Assessment, Prevention and Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Verbal Threats",
+   "Definition": "Verbally aggressive or displayed a verbal outburst including a definite attempt to intimidate or threaten another person (shouting angrily, insulting others, or cursing); more than just a raised voice",
+   "Policy Number": "CLIN001",
+   "Policy Title": "Aggression Assessment, Prevention and Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Crisis Prevention Management (CPM)",
+   "Definition": "Is a comprehensive approach to preventing and addressing aggression. The focus of CPM is assisting the individual to take action to prevent and manage escalating situations during their encounter. It is accomplished by a staff culture supporting safety for staff and clients utilizing communication and educational tools.",
+   "Policy Number": "CLIN003",
+   "Policy Title": "Crisis Prevention Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Aggression (Merriam-Webster)",
+   "Definition": "Hostile, injurious or destructive behavior or outlook. Forceful, goal-directed behavior that may be verbal or physical.",
+   "Policy Number": "CLIN003",
+   "Policy Title": "Crisis Prevention Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Verbal Abuse",
+   "Definition": "Any verbal expression issued with the intent of creating fear or intimidation in another individual, or group of individuals, or verbal remarks or comments expressed in a loud, harsh, or threatening tone of voice, or in a joking manner within the workplace.",
+   "Policy Number": "CLIN003",
+   "Policy Title": "Crisis Prevention Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Physical Abuse",
+   "Definition": "Any intentional movements of the body, which may include touching, gestures, pushing, striking, stalking, or any unwanted intrusion of \"reasonable space\" of an employee. Any intentional use of any object toward an individual.",
+   "Policy Number": "CLIN003",
+   "Policy Title": "Crisis Prevention Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Workplace Violence (CDC)",
+   "Definition": "Workplace violence is violence or the threat of violence against workers. Category Types: \n\n1. Violent acts by people (including current and former employees) who enter the workplace to commit a crime. \n2. Violence directed at employees by customers, clients, patients, visitors, etc. \n3. Violence against co-workers by a current or former employee. \n4. Violence in the workplace by a non-employee who has a relationship with an employee.\n\nWPV Type 2 refers to incidents where staff are abused, threatened or assaulted in circumstances related to their work involving an explicit or implicit challenge to their safety, well-being or health.",
+   "Policy Number": "CLIN003",
+   "Policy Title": "Crisis Prevention Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Staff Debriefing",
+   "Definition": "Is a brief team review of the aggressive event immediately after the situation; an accurate description of events including possible triggers; lessons learned, reinforcement of success and plan revision for safety.",
+   "Policy Number": "CLIN003",
+   "Policy Title": "Crisis Prevention Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Primary Prevention",
+   "Definition": "Interventions for patients, visitors, and staff to support and educate with a goal to mitigate discomfort and anxiety that may lead to hostility and aggression. Global prevention for all patients. This includes identifying patients who may be at greater risk for aggression, ongoing staff education, trauma, informed care and supportive communication.",
+   "Policy Number": "CLIN003",
+   "Policy Title": "Crisis Prevention Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Secondary Prevention",
+   "Definition": "Interventions targeted at specific individuals to assist with identified problems and prevent escalation. Including early detection of escalating behavior and interventions to prevent or decrease aggression.",
+   "Policy Number": "CLIN003",
+   "Policy Title": "Crisis Prevention Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Tertiary Prevention",
+   "Definition": "Alleviating the harm done to patients and staff after verbal or physical aggression. Includes immediately debriefing and planning for patient and staff safety. A system-wide analysis of events for the purpose of changing policy and procedure as well as systems to improve the process of care for patients.",
+   "Policy Number": "CLIN003",
+   "Policy Title": "Crisis Prevention Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Constant Patient Observation (CPO)",
+   "Definition": "Patients must be in direct sight (with the ability of 360-degree viewing) at all times with no barriers. Trained Observer providing CPO must remain in close proximity to patient to provide immediate intervention if needed. Family members of significant others may not assume responsibility for CPO.",
+   "Policy Number": "CLIN004",
+   "Policy Title": "Management of Suicidal Patients During Psychiatry Ambulatory Encounters",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Encounter",
+   "Definition": "A billable individual therapy session or an authorized prescriber evaluation.",
+   "Policy Number": "CLIN004",
+   "Policy Title": "Management of Suicidal Patients During Psychiatry Ambulatory Encounters",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Ligature-Resistant",
+   "Definition": "Without points where a cord, rope, bed sheet, or other fabric/material can be looped or tied to create a sustainable point of attachment that may result in self-harm or loss of life. Ambulance areas do not need to meet the same Ligature-Resistant standards as an inpatient psychiatric unit in terms of built environment (although all identified risks must be mitigated).",
+   "Policy Number": "CLIN004",
+   "Policy Title": "Management of Suicidal Patients During Psychiatry Ambulatory Encounters",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Patient Safety Plan",
+   "Definition": "Plan implemented in collaboration with patient and/or family for all patients with Suicide Ideation as appropriate based on the patient's Suicide Risk Stratification Assessment (See Appendix D).",
+   "Policy Number": "CLIN004",
+   "Policy Title": "Management of Suicidal Patients During Psychiatry Ambulatory Encounters",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Suicide Attempt",
+   "Definition": "A non-fatal self-directed potentially injurious behavior with any intent to die as a result of the behavior. A suicide attempt may or may not result in injury.",
+   "Policy Number": "CLIN004",
+   "Policy Title": "Management of Suicidal Patients During Psychiatry Ambulatory Encounters",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Suicidal Ideation",
+   "Definition": "Thoughts about self-directed violence with the intention of dying.",
+   "Policy Number": "CLIN004",
+   "Policy Title": "Management of Suicidal Patients During Psychiatry Ambulatory Encounters",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Suicide Precautions",
+   "Definition": "Measures implemented to keep patients in the ambulatory non-psychiatric setting safe from self-harm.",
+   "Policy Number": "CLIN004",
+   "Policy Title": "Management of Suicidal Patients During Psychiatry Ambulatory Encounters",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Suicide Risk",
+   "Definition": "Acute Suicide Risk: Factors that reflect self-injurious thoughts and/or behaviors that may jeopardize life or safety. This may include patients who: Have made a suicide attempt within the last 3 months, see Suicide Risk Screen Tool (LINK to PAT1003: Appendix D), Express thoughts/preoccupation with death or suicide (suicidal ideation), Articulate a definitive suicide plan, which includes a specific method along with some intent to act upon the plan, Have an immediate family member reporting that patient has expressed recent suicidal thoughts or made a suicide attempt, Deny suicidal ideation but have engaged in such behavior(s), which in the clinician's judgment, poses a significant risk to life or safety. Chronic Suicide Risk: Factors that suggest the ongoing likelihood that a patient may make a future attempt based on the patient's history such as: History of previous attempts, History of mental illness, including depression, Family history.",
+   "Policy Number": "CLIN004",
+   "Policy Title": "Management of Suicidal Patients During Psychiatry Ambulatory Encounters",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Suicidal Risk Indicators",
+   "Definition": "Description of any plan, method, intent, suicidal or self-harm behaviors; risk factors and protective factors that the patient is endorsing or exhibiting.",
+   "Policy Number": "CLIN004",
+   "Policy Title": "Management of Suicidal Patients During Psychiatry Ambulatory Encounters",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Suicide Risk Screen Tool",
+   "Definition": "Evidence-based process (e.g., A-C SSRS) used to immediately detect acute Suicide Risk in both adults and pediatric patients.",
+   "Policy Number": "CLIN004",
+   "Policy Title": "Management of Suicidal Patients During Psychiatry Ambulatory Encounters",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Suicide Risk Stratification Assessment",
+   "Definition": "Evidence-based process to stratify the level of acute Suicide Risk (low, moderate, high) for patients who have screened positive for Suicidal Ideation through evaluation of Suicidal Ideation, plan, method, intent, suicidal or self-harm behaviors, risk factors, and protective factors. The Suicide Risk Stratification Assessment includes information about Suicidal Risk Indicators.",
+   "Policy Number": "CLIN004",
+   "Policy Title": "Management of Suicidal Patients During Psychiatry Ambulatory Encounters",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Skin Assessment",
+   "Definition": "Review of patient's body, while in a patient gown, during admission process.",
+   "Policy Number": "CLIN002",
+   "Policy Title": "Patient Searches, Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Stolen Items",
+   "Definition": "Any item in the unauthorized possession of an individual which belongs to someone else including credit card information.",
+   "Policy Number": "CLIN002",
+   "Policy Title": "Patient Searches, Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Contraband",
+   "Definition": "Broadly defined as any item that is potentially hazardous to patients and/or staff, e.g. weapons, sharp objects, illicit substance/paraphernalia, cigarettes, matches, cords, medication, shoe laces, nylons, long socks, belts, and lighters.",
+   "Policy Number": "CLIN002",
+   "Policy Title": "Patient Searches, Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Personal Belongings",
+   "Definition": "Items (including prescription, etc.) and/or clothing worn by the patient or brought to the hospital. Valuables, such as cash, jewelry, credit cards, identification information, checks, bank books, electronic devices.",
+   "Policy Number": "CLIN002",
+   "Policy Title": "Patient Searches, Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Physical Patient Search",
+   "Definition": "JHHS trained staff will perform a hands-on search of patient's body, clothing, or anything attached to the patient. (Sensitivity to personal space and patient's history of trauma, including sexual abuse, will be provided in the search approach; this should include having at least one staff member present for search who is the same identified gender as patient)",
+   "Policy Number": "CLIN002",
+   "Policy Title": "Patient Searches, Management in Psychiatry",
+   "Section": "JHHS Psychiatry Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "ATK Timekeeping",
+   "Definition": "Allows an employee to remotely punch in and out and answer attestation questions by using a computer or other electronic device.",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Attestation",
+   "Definition": "Johns Hopkins Health System, enhanced time recording process for all employees who clock into Kronos for a given shift. This process will validate when the staff begin and end their shift, in addition to confirming whether they have had an uninterrupted meal break.",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Biometrics",
+   "Definition": "Refers to the identification of humans by their characteristics or traits. The Kronos system will require employees to identify themselves using finger recognition",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Dedicated Kronos Station",
+   "Definition": "The Kronos time keeping system is located in particular imaging locations that has been approved by management for use by the employees working in that area",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Exempt Employees",
+   "Definition": "Employees who are not subject to minimum wage and overtime provisions of the Fair Labor Standards Act. These employees are exempt from these provisions due to the duties, responsibilities, and nature of the work performed, not based on the hours it takes them to complete the job.",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Employee Self Service (ESS)",
+   "Definition": "Employee Self Service is a part of the Central HR/payroll system that allows staff to view their hours worked, payroll, benefits, and personal information.",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Kronos",
+   "Definition": "The time-keeping and scheduling system used by entities in this policy.",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Kronos Attestation Exception MachForm",
+   "Definition": "A document used by non-exempt employees to document when they miss a swipe, worked over their shift, had no lunch, etc. All exception forms must be submitted before the end of the pay period.",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Kronos Manager/Superuser",
+   "Definition": "Responsible for maintaining and editing employees� schedules and timecards.",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Non-Exempt Employees",
+   "Definition": "Employees who are subject to minimum wage, overtime and other relevant provisions of the Fair Labor Standards Act. Non-Exempt employees are paid for all or partial hours worked within a defined pay period.",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Pay Period",
+   "Definition": "Employees are paid bi-weekly on Friday in accordance with JHM pay practice, for wages earned in the biweekly payroll period.",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Scheduled Shift",
+   "Definition": "An expected period to be worked.",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Soft Keys",
+   "Definition": "Key functions on each page of the Kronos time clock for various functions and cost centers.",
+   "Policy Number": "ADMT16",
+   "Policy Title": "Kronos",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Central Venous Access Device (CVAD)",
+   "Definition": "For the purposes of this policy, central venous access devices refer to central lines (e.g., Hickmans, Groshong), implanted ports, and peripherally inserted central catheters (PICCs).",
+   "Policy Number": "AMP702",
+   "Policy Title": "Contrast Administration; Process and Management of Patient Receiving",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Contrast Reaction",
+   "Definition": "An allergic-like event experienced by a patient after receiving contrast media. These reactions can be mild, moderate, or severe.",
+   "Policy Number": "AMP702",
+   "Policy Title": "Contrast Administration; Process and Management of Patient Receiving",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Enteral",
+   "Definition": "Involving passing through the intestines, either naturally or through an artificial opening.",
+   "Policy Number": "AMP702",
+   "Policy Title": "Contrast Administration; Process and Management of Patient Receiving",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "eGFR",
+   "Definition": "Estimated glomerular filtration rate. A lab value used to assess function of the kidneys.",
+   "Policy Number": "AMP702",
+   "Policy Title": "Contrast Administration; Process and Management of Patient Receiving",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Extravasation",
+   "Definition": "The leakage of a vesicant drug into the subcutaneous or surrounding tissue that is capable of causing pain, necrosis and/or sloughing of the tissue and/or various degrees of tissue damage.",
+   "Policy Number": "AMP702",
+   "Policy Title": "Contrast Administration; Process and Management of Patient Receiving",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Power Injectable",
+   "Definition": "A medical device that has been approved by the FDA for use with a power/pressure injector for contrast administration.",
+   "Policy Number": "AMP702",
+   "Policy Title": "Contrast Administration; Process and Management of Patient Receiving",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Registered Radiologist Assistant (RRA)",
+   "Definition": "An advanced-level radiographer who has completed the appropriate education and obtained certification as an RRA. Under radiologist supervision, the RRA can perform patient assessment, patient management, and selected clinical imaging procedures in the diagnostic imaging environment. They are not qualified to interpret any radiological exam.",
+   "Policy Number": "AMP702",
+   "Policy Title": "Contrast Administration; Process and Management of Patient Receiving",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Vesicant Drugs",
+   "Definition": "Agents which have the potential to cause blistering or tissue necrosis if they leak into the tissue surrounding a blood vessel or venous access device. Contrast media is a vesicant.",
+   "Policy Number": "AMP702",
+   "Policy Title": "Contrast Administration; Process and Management of Patient Receiving",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Ionizing Radiation",
+   "Definition": "The combined process of emission, transmission and absorption of radiation energy to produce an image for x-ray, CT, and fluoroscopy imaging.",
+   "Policy Number": "AMP735",
+   "Policy Title": "Positioning and Immobilization Guidelines during Ionizing Imaging Exams",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Healthcare provider or Caregiver",
+   "Definition": "A healthcare provider or caregiver identified to assist in the mobilization of a patient for the purpose of acquiring images for ionization radiation exams.",
+   "Policy Number": "AMP735",
+   "Policy Title": "Positioning and Immobilization Guidelines during Ionizing Imaging Exams",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Radiation Protective Device",
+   "Definition": "Lead apron or other items composed of x-ray attenuating materials, such as lead or lead equivalent worn to reduce radiation dose.",
+   "Policy Number": "AMP735",
+   "Policy Title": "Positioning and Immobilization Guidelines during Ionizing Imaging Exams",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Authorized prescriber",
+   "Definition": "A MD, Nurse Practitioner or Physician's Assistant who is allowed to write orders for a patient.",
+   "Policy Number": "AMP701",
+   "Policy Title": "Pregnancy Verification for Radiologic Studies",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Child-bearing age",
+   "Definition": "The time period from the onset of menstruation to one year post menopause.",
+   "Policy Number": "AMP701",
+   "Policy Title": "Pregnancy Verification for Radiologic Studies",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Early Adolescence",
+   "Definition": "Ages 8 to 13 years",
+   "Policy Number": "AMP701",
+   "Policy Title": "Pregnancy Verification for Radiologic Studies",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Human Chorionic Gonadotropin (HCG)",
+   "Definition": "The hormone detected in blood or urine when a woman is pregnant.",
+   "Policy Number": "AMP701",
+   "Policy Title": "Pregnancy Verification for Radiologic Studies",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Last Menstrual Period (LMP)",
+   "Definition": "The first day a female begins her menstrual cycle.",
+   "Policy Number": "AMP701",
+   "Policy Title": "Pregnancy Verification for Radiologic Studies",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Questionable Pregnancy Status",
+   "Definition": "The patient is unsure of the dates of her last menstrual period or results of a HCG test are pending.",
+   "Policy Number": "AMP701",
+   "Policy Title": "Pregnancy Verification for Radiologic Studies",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "ALARA",
+   "Definition": "As Low As Reasonably Achievable: Taking every reasonable effort to maintain exposures to ionizing radiation as far below the dose limits as practical.",
+   "Policy Number": "AMP711",
+   "Policy Title": "Radiation Protection Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Radiation Worker",
+   "Definition": "An individual whose job assignment requires work on, with, or in the proximity of radiation-producing machines or radioactive materials and has the potential of being exposed to at least 100 mrem a year from occupational sources.",
+   "Policy Number": "AMP711",
+   "Policy Title": "Radiation Protection Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Imaging Algorithm",
+   "Definition": "A specific guideline created and approved by radiology authorized prescribers to guide imaging technologists in the process for obtaining images (e.g., fields of view, sequencing of image, timing of contrast).",
+   "Policy Number": "AMP700",
+   "Policy Title": "Radiology Policy, Protocol and Procedure, Development and Management Process",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Policy",
+   "Definition": "Provides descriptions of elements always required in managing clinical or operational issues.",
+   "Policy Number": "AMP700",
+   "Policy Title": "Radiology Policy, Protocol and Procedure, Development and Management Process",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Procedure",
+   "Definition": "Provides a step by step practice for completing a task or process.",
+   "Policy Number": "AMP700",
+   "Policy Title": "Radiology Policy, Protocol and Procedure, Development and Management Process",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Protocol",
+   "Definition": "Provides guidelines for care and administrative management.",
+   "Policy Number": "AMP700",
+   "Policy Title": "Radiology Policy, Protocol and Procedure, Development and Management Process",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Clinical Staff",
+   "Definition": "Personnel involved in or relating to the direct medical care and treatment or testing of patients. This includes the radiologist, technologists, and providers.",
+   "Policy Number": "BI709",
+   "Policy Title": "Breast Sentinel Node Procedure",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Decontamination Procedures",
+   "Definition": "Processes where contaminants on an object or area, including chemicals, micro-organisms, or radioactive substances are neutralized. This can be achieved by a chemical reaction, disinfection, physical removal or decay over time.",
+   "Policy Number": "BI709",
+   "Policy Title": "Breast Sentinel Node Procedure",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Personnel Monitoring",
+   "Definition": "In a radiated environment, refers to a program that establishes guidelines for clinical staff to measure, monitor, report and restrict exposure to radiation. Methods include wearing of radiation dosimeter badges.",
+   "Policy Number": "BI709",
+   "Policy Title": "Breast Sentinel Node Procedure",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Radioactive Materials",
+   "Definition": "Radiation: A substance that contains unstable-radioactive-atoms that give off radiation as it decays.",
+   "Policy Number": "BI709",
+   "Policy Title": "Breast Sentinel Node Procedure",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Radioisotope",
+   "Definition": "Radioactive form of an element consisting of atoms with unstable nuclei which undergo radioactive decay to stable forms, emitting characteristic alpha, beta, or gamma radiation. These may occur naturally, as in the cases of radium and uranium, or may be created artificially.",
+   "Policy Number": "BI709",
+   "Policy Title": "Breast Sentinel Node Procedure",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Radiation Survey",
+   "Definition": "An evaluation of work areas, instruments, and apparatus, floors, sinks, faucet handles, drawer fronts, doorknobs, telephones, light switches, refrigerators, etc. for the presence of radioactive contamination.",
+   "Policy Number": "BI709",
+   "Policy Title": "Breast Sentinel Node Procedure",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Radiation Survey Meter",
+   "Definition": "A survey meter is a portable handheld, electronic instrument used to detect radiation. It is recommended that a Geiger Mueller (GM) probe be used for isotopes which emit beta radiation and an energy compensated GM probe be used for gamma emitting isotopes with energies greater than 60keV.",
+   "Policy Number": "BI709",
+   "Policy Title": "Breast Sentinel Node Procedure",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "BCP",
+   "Definition": "Business Continuity Plan",
+   "Policy Number": "EC700",
+   "Policy Title": "Downtime Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "BCA",
+   "Definition": "Business Continuity Access (often referenced as BCA computers)",
+   "Policy Number": "EC700",
+   "Policy Title": "Downtime Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "HPO",
+   "Definition": "Hopkins Policies Online",
+   "Policy Number": "EC700",
+   "Policy Title": "Downtime Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "FOD",
+   "Definition": "Forms on Demand, web link to all JHM forms",
+   "Policy Number": "EC700",
+   "Policy Title": "Downtime Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "EPIC",
+   "Definition": "Electronic Health Record",
+   "Policy Number": "EC700",
+   "Policy Title": "Downtime Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "PACS",
+   "Definition": "Picture archiving and communication system.",
+   "Policy Number": "EC700",
+   "Policy Title": "Downtime Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MIIT",
+   "Definition": "Medical Imaging Information Technology refers to our IT team located at Mt. Washington",
+   "Policy Number": "EC700",
+   "Policy Title": "Downtime Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MIIT Event Manager",
+   "Definition": "Individual assigned by MIIT to oversee and communicate downtime events",
+   "Policy Number": "EC700",
+   "Policy Title": "Downtime Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MIIT Clinical Ops On Call Staff",
+   "Definition": "IT team person on-call",
+   "Policy Number": "EC700",
+   "Policy Title": "Downtime Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Lead or X-Ray marker",
+   "Definition": "The markers are used on x-ray images to determine the side (left or right) or laterality.",
+   "Policy Number": "DIAG702",
+   "Policy Title": "Lead Marker Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Electronic or Digital marker",
+   "Definition": "Markers that can be applied electronically after an image is acquired.",
+   "Policy Number": "DIAG702",
+   "Policy Title": "Lead Marker Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Technologist number",
+   "Definition": "Depending on the site location, a number is assigned to a technologist to identify the technologist acquiring an image. The number should be included with the lead marker on the image by either using a lead number or applying the number electronically.",
+   "Policy Number": "DIAG702",
+   "Policy Title": "Lead Marker Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "PACs",
+   "Definition": "Refers to the picture archiving and communication system which provides storage and access to acquired images.",
+   "Policy Number": "DIAG702",
+   "Policy Title": "Lead Marker Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Carestream Prior Image Retrieval function",
+   "Definition": "The functionality on Carestream imaging equipment to query PACs for previous images.",
+   "Policy Number": "DIAG702",
+   "Policy Title": "Lead Marker Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Marker Code",
+   "Definition": "A series of codes in Radiant for the technologist to select as part of the end procedure tracking steps and these codes can assist in identifying a subset of exams.",
+   "Policy Number": "DIAG702",
+   "Policy Title": "Lead Marker Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Epic Radiant",
+   "Definition": "Electronic medical record system for imaging exams.",
+   "Policy Number": "DIAG702",
+   "Policy Title": "Lead Marker Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "HEIC",
+   "Definition": "Healthcare Epidemiology and Infection Control",
+   "Policy Number": "DIAG702",
+   "Policy Title": "Lead Marker Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Archive Only Requests",
+   "Definition": "Request to archive non-Johns Hopkins imaging studies to the PACS without a Second Opinion read.",
+   "Policy Number": "IRM700",
+   "Policy Title": "The eRadiology Service Center Policies and Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Comparison Requests",
+   "Definition": "The process of comparing images performed at a Johns Hopkins Imaging site to non-Johns Hopkins imaging studies imported into PACS.",
+   "Policy Number": "IRM700",
+   "Policy Title": "The eRadiology Service Center Policies and Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "De-Identification Requests",
+   "Definition": "Request to remove PHI (Patient Health Information) from medical imaging for research purposes.",
+   "Policy Number": "IRM700",
+   "Policy Title": "The eRadiology Service Center Policies and Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Image Sharing",
+   "Definition": "A platform used to upload and share images with colleagues instantly and securely. The Image Sharing platform used by Johns Hopkins Health System is Ambra.",
+   "Policy Number": "IRM700",
+   "Policy Title": "The eRadiology Service Center Policies and Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Image Transfers",
+   "Definition": "The process of transferring radiological imaging to a non-Johns Hopkins provider, patient, or patient representative.",
+   "Policy Number": "IRM700",
+   "Policy Title": "The eRadiology Service Center Policies and Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Johns Hopkins Imaging (JHI)",
+   "Definition": "Free standing imaging sites managed in connection to Johns Hopkins Hospital Radiology and Imaging Department (i.e. JHI Bethesda, JHI Columbia, JHI Green Spring Station, and JHI White Marsh).",
+   "Policy Number": "IRM700",
+   "Policy Title": "The eRadiology Service Center Policies and Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Picture Archiving and Communication System (PACS)",
+   "Definition": "Provides for the viewing, storing and retrieving, communication and managing of medical digital images and related information. It is a system that displays and exchanges medical images for interpretation or review.",
+   "Policy Number": "IRM700",
+   "Policy Title": "The eRadiology Service Center Policies and Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Release of Information (ROI)",
+   "Definition": "The documentation of releasing a patient's radiology records to a non-Johns Hopkins provider, patient, or patient representative.",
+   "Policy Number": "IRM700",
+   "Policy Title": "The eRadiology Service Center Policies and Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Second Opinion Reads",
+   "Definition": "Request for imaging interpretation by a Johns Hopkins Radiology Provider of an imaging study that was performed at a non-Johns Hopkins entity.",
+   "Policy Number": "IRM700",
+   "Policy Title": "The eRadiology Service Center Policies and Procedures",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "5 Gauss Line",
+   "Definition": "This line specifies the perimeter around an MR scanner within which the static magnetic fields are higher than five gauss. If there is no visible indication of the 5 gauss line around any MRI scanner on the Johns Hopkins Health System campuses, the boundary therefore extends to each wall of the scanner room up to the MRI scan door.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Coil",
+   "Definition": "Pieces of metal inside the MRI scanner that functions as a receiver, and sometimes also the transmitters, of radiofrequency (RF) signals to produce MRI imaging.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Ferromagnetic",
+   "Definition": "Characteristic of substances such as iron, nickel, cobalt and various alloys that exhibit extremely high magnetic permeability. When these objects are within the 5 gauss line, they will be drawn to the magnet with great force.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Ferromagnetic Metal Detection System",
+   "Definition": "Ferromagnetic metal detection systems (FMDS) are stationary devices installed in the frame of the door leading into Zone 4. It is used for the detection of any ferromagnetic material that could potentially enter Zone 4.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Ferromagnetic Wand",
+   "Definition": "A hand held metal detector used to check over and around the body of an employee, patient, family member/guardian, and/or vendor for the presence of ferromagnetic material before entering Zone 4.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Gadolinium",
+   "Definition": "An intravenous contrast agent used in MRI to produce enhanced high quality images when the patient is scanned.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Gadolinium Medication Guide",
+   "Definition": "An approved US Food and Drug Administration (FDA) document that provides updated prescribing information concerning the gadolinium retention safety issues for each gadolinium agent.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Intraoperative Magnetic Resonance Imaging Suite (IMRIS) Bay",
+   "Definition": "The dedicated bay that houses the MRI scanner between JHH ZBOR309 and JHH ZBOR310. The MRI Technologist, Radiology Physics and Engineering, and IMRIS Service Engineers will be the only personnel to have access to the bay. See JHH Appendix for details.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "IMRIS Suite",
+   "Definition": "An MRI scanner that is mounted on an overhead rail located in its own bay between two operation rooms (OR). The Suite includes JHH ZBOR 309, JHH ZBOR 310 and the IMRIS Bay. See JHH Appendix for details.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MR Personnel",
+   "Definition": "Personnel responsible for safety in Zones 3 or 4 of the MR environment should be documented as having been successfully educated regarding MR safety issues, at least to a level sufficient to ensure that they do not represent a danger to themselves or others in the MR environment.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Non-MR Personnel",
+   "Definition": "Individuals who do not routinely work in the MR environment and have not successfully completed MRI Safety Level 1 or 2 training.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Magnetic Resonance Imaging (MRI)",
+   "Definition": "A noninvasive imaging tool with a powerful magnetic field, radio waves, and a computer to produce detailed images of the human body. The interaction between individuals or equipment and the MR scanners unique environment may result in serious injury or death.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MRI Zones",
+   "Definition": "There are four recommended zones defined by the ACR (American College of Radiology) that will assist in limiting MRI related incidents/accidents. These zones should be identified in every area where an MRI scanner is located. Zone 1: Any area that is freely accessible to the general public. Zone 2: The area for unscreened patients, family members/guardians, visitors, and employees. Zone 3: This area is strictly controlled and shall allow only screened patients, family members/guardians, and employees. Zone 4: The MRI scan room and any room where the 5 gauss line extends into that room. This room may only be accessed by screened patients, family members/guardians, visitors, and employees under the constant supervision of MRI personnel or an identified MRI Safety Officer for that MRI scanner location.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MR Safe",
+   "Definition": "Equipment or devices may be used in any area of the MR/OR and will not be affected by the magnetic field or the imaging. Labeled with a green and white sticker and the initials \"MR\" inside a square.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MR Conditional",
+   "Definition": "Equipment may only be used under certain conditions in the MR environment, such as magnetic field strength, gradient magnetic field and distance from magnet. Labeled with a yellow and black sticker with the initials \"MR\" inside a triangle.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MR Unsafe",
+   "Definition": "Equipment that poses DANGER to the patient, staff, and the MR scanner itself if equipment enters the MR environment. Labeled with a red sticker with a line across the initials \"MR\" inside a circle.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MRI Procedure Screening Form",
+   "Definition": "A comprehensive list of screening questions that must be answered by patients, family members/guardians, or visitors to determine if it would be safe to enter Zone 4.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MRI Employee Screening Form",
+   "Definition": "A comprehensive list of screening questions that must be answered by employees to determine if the employee would be safe to enter Zone 4.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MRI Scheduling Questionnaire",
+   "Definition": "A list of scheduling questions that must be answered by outpatients, or the medical clinic at the point of scheduling to determine if it would be safe for the patient to enter Zone 4 on the day of their appointment.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MRI Order Question",
+   "Definition": "List of questions that must be answered by the ordering physician at the time of order placement.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MRI Training",
+   "Definition": "Level 1 MR Safety training is required, at a minimum, for all medical personnel involved in patient care within the MRI environment. The training provides information about potential catastrophic events associated with the MR scanner, MRI screening, and safe practices that prevent harm. Level 2 MR safety training is designed for MRI Technologists, MRI Radiology Assistants, MRI Radiologist, Clinical Engineering and Radiology Physics and Engineering staff. The training provides extensive knowledge about the MRI environment including the potential hazards of the magnetic field, cryogens, equipment and agents used within the MRI environment.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Quench",
+   "Definition": "An abnormal termination of the magnetic field causing the release of helium gas. See Quench Appendix.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MRSO",
+   "Definition": "Magnetic Resonance Safety Officer: Assists the MRMD when needed.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "MRMD",
+   "Definition": "Magnetic Resonance Medical Director.",
+   "Policy Number": "MRI702",
+   "Policy Title": "Magnetic Resonance Imaging Safety Policy",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Quality Assurance (QA)",
+   "Definition": "This is an integral part to any department to ensure a desired level of quality and proper functionality and accuracy in a product.",
+   "Policy Number": "MRI701",
+   "Policy Title": "MRI Scanner Quality Assurance (QA)",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Quality Control (QC)",
+   "Definition": "A system for verifying or maintaining the desired level of quality in a manufactured product by use of proper equipment, continued inspection, and corrective action as required.",
+   "Policy Number": "MRI701",
+   "Policy Title": "MRI Scanner Quality Assurance (QA)",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Time Sensitive Radiology Results",
+   "Definition": "A new or unexpected finding, or a finding that is discrepant from an earlier preliminary or final report, and which in the clinical judgment of the interpreting radiologist could result in significant patient morbidity or mortality if appropriate diagnostic and/or therapeutic follow-up is not undertaken in a timely manner. Time Sensitive Radiology Results require direct notification of a Licensed Practitioner (LP) who is a member of the patient�s care team.",
+   "Policy Number": "RADMD702",
+   "Policy Title": "Time Sensitive Radiology Results Communication",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Licensed Practitioner (LP)",
+   "Definition": "An individual who is licensed and qualified to direct or provide care, treatment, and services in accordance with state law and regulation, applicable federal law and regulation, and organizational policy (e.g., Physicians, Nurse Practitioners, Physician Assistants).",
+   "Policy Number": "RADMD702",
+   "Policy Title": "Time Sensitive Radiology Results Communication",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Critical Alert",
+   "Definition": "Findings could result in potential harm to the patient in minutes or hours and require immediate, interruptive notification of the care team with loop closure within 30 minutes of the discovery of the finding.",
+   "Policy Number": "RADMD702",
+   "Policy Title": "Time Sensitive Radiology Results Communication",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Urgent Alert",
+   "Definition": "Findings could result in potential harm to the patient in hours or days, if not appropriately treated, and require notification of the care team with loop closure within (i) 1 hour of the discovery of findings for inpatients and ED patients, and (ii) 4 hours of the discovery of findings for outpatients. In addition to acute pathology, this category includes new findings with a reasonable likelihood of representing cancer or another condition that could result in significant patient morbidity or mortality if appropriate diagnostic and/or therapeutic follow-up is not undertaken in a timely manner.",
+   "Policy Number": "RADMD702",
+   "Policy Title": "Time Sensitive Radiology Results Communication",
+   "Section": "JHHS Radiology and Imaging Interdisciplinary Clinical Practice Manual"
+ },
+ {
+   "Term": "Basal Insulin",
+   "Definition": "Insulin that provides the body with an extended steady level of insulin. Basal insulin (e.g., NPH, glargine) is used to maintain euglycemia between meals and in the fasting state.",
+   "Policy Number": "A/P-E126",
+   "Policy Title": "Diabetes Mellitus, Management of the Obstetrical Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Correctional Insulin",
+   "Definition": "Rapid-acting insulin (e.g., aspart), occasionally administered in addition to nutritional insulin, to reduce elevated blood glucose. It may be administered before or between meals.",
+   "Policy Number": "A/P-E126",
+   "Policy Title": "Diabetes Mellitus, Management of the Obstetrical Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Nutritional Insulin",
+   "Definition": "Rapid-acting insulin (e.g., aspart) administered immediately before a meal to take care of the anticipated rise in blood glucose from absorbed carbohydrates.",
+   "Policy Number": "A/P-E126",
+   "Policy Title": "Diabetes Mellitus, Management of the Obstetrical Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Nutritional Insulin based on Carbohydrate Counting",
+   "Definition": "Rapid-acting insulin (e.g., aspart) administered before a meal based on anticipated grams of carbohydrates for consumption.",
+   "Policy Number": "A/P-E126",
+   "Policy Title": "Diabetes Mellitus, Management of the Obstetrical Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Eclampsia",
+   "Definition": "Characterized by new-onset tonic-clonic, focal, or multifocal seizures in women with hypertensive disorder of pregnancy unrelated to other medical conditions. However, this condition may occur in women with no previous history of hypertensive disorder. Eclamptic seizure activity involves both tonic (stiffening) and clonic (twitching or jerking) phases of muscle activity. The person may experience changes in sensation, mood or emotion leading up to the tonic-clonic seizure. Eclampsia convulsions occur in two phases: 1. First phase, typically lasts 15-20 seconds, begins with facial twitching and proceeds to the muscles becoming rigid with generalized muscular contractions. 2. Second phase, typically lasts approximately 1-2 minutes but can last up to 4 minutes, consists of muscles of the body alternately contracting and relaxing in rapid succession. This phase begins with the muscles of the jaw, eyelids, and other facial muscles, then all the muscles of the body. Total loss of consciousness follows the convulsions, and some women may become cyanotic or experience tongue biting and incontinence. After the seizure, the patient may be confused, disoriented and sleepy and remember nothing of the recent events.",
+   "Policy Number": "OBGYN003",
+   "Policy Title": "Eclamptic Seizures, Management of the Obstetric Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Preeclampsia",
+   "Definition": "A disorder of pregnancy associated with new-onset hypertension, which occurs after 20 weeks of gestation, often accompanied by new onset proteinuria or other signs and symptoms of preeclampsia (e.g., new-onset headache, renal insufficiency, thrombocytopenia, impaired liver function, visual disturbances, and pulmonary edema).",
+   "Policy Number": "OBGYN003",
+   "Policy Title": "Eclamptic Seizures, Management of the Obstetric Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Analgesia",
+   "Definition": "Pain relief with or without partial sensory changes. Motor block does not usually occur.",
+   "Policy Number": "A/P-E130",
+   "Policy Title": "Morphine Sulfate Preservative-Free (Duramorph) Analgesia Postoperative Pain - Adult Obstetric Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Analgesics",
+   "Definition": "Drugs that relieve pain.",
+   "Policy Number": "A/P-E130",
+   "Policy Title": "Morphine Sulfate Preservative-Free (Duramorph) Analgesia Postoperative Pain - Adult Obstetric Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Breakthrough Pain",
+   "Definition": "Pain that breaks through an existing analgesia regimen.",
+   "Policy Number": "A/P-E130",
+   "Policy Title": "Morphine Sulfate Preservative-Free (Duramorph) Analgesia Postoperative Pain - Adult Obstetric Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Neuraxial",
+   "Definition": "Intrathecal and epidural route.",
+   "Policy Number": "A/P-E130",
+   "Policy Title": "Morphine Sulfate Preservative-Free (Duramorph) Analgesia Postoperative Pain - Adult Obstetric Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Regional Analgesia/Anesthesia",
+   "Definition": "Blocks pain or lessen pain on a specific region of the body (e.g., below the waist). They include but not limited to epidural, spinal, and combined spinal-epidural (CSE) analgesia/anesthesia and peripheral nerve blocks.",
+   "Policy Number": "A/P-E130",
+   "Policy Title": "Morphine Sulfate Preservative-Free (Duramorph) Analgesia Postoperative Pain - Adult Obstetric Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Epidural",
+   "Definition": "Analgesic/anesthetic injected into epidural space. Epidural analgesia includes intermittent dosing, continuous infusion, and patient-controlled analgesia and involves the administration of local anesthetics, opioids, and/or adjuvant drugs.",
+   "Policy Number": "A/P-E130",
+   "Policy Title": "Morphine Sulfate Preservative-Free (Duramorph) Analgesia Postoperative Pain - Adult Obstetric Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Spinal or intrathecal",
+   "Definition": "Analgesic injected into the subarachnoid (dura) space.",
+   "Policy Number": "A/P-E130",
+   "Policy Title": "Morphine Sulfate Preservative-Free (Duramorph) Analgesia Postoperative Pain - Adult Obstetric Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Combined spinal-epidural (CSE)",
+   "Definition": "Analgesic injected into the subarachnoid space followed by analgesic/anesthetic injected into epidural space via intermittent dosing followed by continuous infusion.",
+   "Policy Number": "A/P-E130",
+   "Policy Title": "Morphine Sulfate Preservative-Free (Duramorph) Analgesia Postoperative Pain - Adult Obstetric Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Postpartum Hemorrhage (PPH)",
+   "Definition": "Cumulative blood loss greater than or equal to 1,000 mL or blood loss accompanied by signs and symptoms of hypovolemia within 24 hours after the birth process. Postpartum Hemorrhage is classified by the amount of blood loss at each stage of hemorrhage and changes in hemodynamic parameters, laboratory findings, and other clinical manifestations. See Appendix B.",
+   "Policy Number": "OBGYN001",
+   "Policy Title": "Obstetric Hemorrhage, Screening and Management",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Obstetric Hemorrhage Risk Screen",
+   "Definition": "Evidence-based screening tool used to identify risk for Postpartum Hemorrhage. The tool does not include all possible clinical conditions. It is designed to assist in communicating patient's risk for Postpartum Hemorrhage and aid in clinical decision-making.",
+   "Policy Number": "OBGYN001",
+   "Policy Title": "Obstetric Hemorrhage, Screening and Management",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Obstetric Hemorrhage Cart",
+   "Definition": "The hemorrhage cart ensures the availability of supplies, equipment, and instruments needed to treat an obstetric hemorrhage. The cart is located on L&D and Postpartum unit for rapid access when an obstetric emergency is activated. Instrument sets/trays used for procedural/surgical cases may be stored separately from the hemorrhage cart.",
+   "Policy Number": "OBGYN001",
+   "Policy Title": "Obstetric Hemorrhage, Screening and Management",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Atony",
+   "Definition": "Relaxation of the uterus to the point at which it lacks normal muscle tone or tension.",
+   "Policy Number": "A/P-E144",
+   "Policy Title": "Postpartum Care, Management of Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Lochia",
+   "Definition": "Vaginal discharge during the postpartum period. It consists of blood, tissue shed from the lining of the uterus, and mucus.",
+   "Policy Number": "A/P-E144",
+   "Policy Title": "Postpartum Care, Management of Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Postpartum",
+   "Definition": "The postpartum period, also known as the puerperium and the \"fourth trimester,\" refers to the time after birth when maternal physiologic changes related to pregnancy return to the nonpregnant state.",
+   "Policy Number": "A/P-E144",
+   "Policy Title": "Postpartum Care, Management of Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Uterine Involution",
+   "Definition": "The return of the uterus to the nonpregnant state.",
+   "Policy Number": "A/P-E144",
+   "Policy Title": "Postpartum Care, Management of Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Fetal-Maternal Hemorrhage Screen (rosette test)",
+   "Definition": "Qualitative laboratory test used to screen for fetal-maternal hemorrhage in excess of 15 mL fetal RBCs to determine whether additional testing (Kleihauer-Betke test) and/or additional vials of Rh immune globulin may be required.",
+   "Policy Number": "OBGYN005",
+   "Policy Title": "Rh Immune Globulin, Administration in Obstetric Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Kleihauer-Betke Test (KB)",
+   "Definition": "Laboratory test used to quantify the amount of fetal cells in circulation to determine dose/additional Rh immune globulin is needed. A screening test for fetal-maternal hemorrhage, the rosette test, may be performed first. 1. If the rosette test is negative, administration of a standard 300 mcg (1500 international units) of Rh immune globulin is warranted. 2. If the rosette is positive, a KB stain or fetal cell stain using flow cytometry is undertaken to quantify the amount of fetal-maternal hemorrhage.",
+   "Policy Number": "OBGYN005",
+   "Policy Title": "Rh Immune Globulin, Administration in Obstetric Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Rh D Alloimmunization",
+   "Definition": "The development of antibodies when an Rh negative person is exposed to Rh antigen after a blood transfusion, pregnancy, or tissue transplant. In pregnancy, small interruptions at the fetal-maternal placental interface may lead to passage of these antibodies into the fetal circulation and the fetus/neonate is at risk for hemolytic anemia.",
+   "Policy Number": "OBGYN005",
+   "Policy Title": "Rh Immune Globulin, Administration in Obstetric Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Delayed Umbilical Cord Clamping (DCC)",
+   "Definition": "Delayed umbilical cord clamping is a process that allows placental transfusion of warm, oxygenated blood to flow passively into the newborn.",
+   "Policy Number": "L&D-E101",
+   "Policy Title": "Delayed Umbilical Cord Clamping After Birth (Term and Preterm Infants)",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Umbilical Cord Milking",
+   "Definition": "Refer to stripping or physically expressing blood from the umbilical cord.",
+   "Policy Number": "L&D-E101",
+   "Policy Title": "Delayed Umbilical Cord Clamping After Birth (Term and Preterm Infants)",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Doula",
+   "Definition": "A doula, also known as a birth companion or birth worker, is a non-healthcare professional trained to provide physical, emotional, informational support, and coaching before, during and after childbirth. This professional may have a contracted business relationship with the birthing person or may act in a volunteer capacity.",
+   "Policy Number": "L&D-E172",
+   "Policy Title": "Doula Support during Labor and Delivery",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Doppler",
+   "Definition": "A Doppler ultrasound device is a small device that is pressed against a mother's abdomen. This device uses a form of ultrasound to convert sound waves into signals of a fetal heartbeat.",
+   "Policy Number": "L&D-E114",
+   "Policy Title": "Fetal Monitoring, Management of the Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Electronic Fetal Monitoring (EFM)",
+   "Definition": "EFM is used for antepartum fetal testing and intrapartum assessment of fetal status and uterine activity. Fetal heart rate and uterine activity may be assessed via external or internal monitoring. 1. External monitoring involves the use of tocodynamometer (Toco) and an ultrasound transducer (US). 2. Internal monitoring involves the use of an intrauterine pressure catheter (IUPC) and fetal scalp electrode (FSE). Fetal monitoring may be performed either continuously or intermittently with an external EFM equipment at specified intervals. The electronic monitor records and archives fetal heart rate and uterine activity data.",
+   "Policy Number": "L&D-E114",
+   "Policy Title": "Fetal Monitoring, Management of the Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Fetal ECG (fECG) and Uterine Activity Monitoring",
+   "Definition": "Electrodes are placed on the maternal abdomen to record maternal heart rate (mECG), fetal heart rate (fECG) and maternal uterine electromyography (EMG) from the uterine muscle. Data are transmitted wirelessly via Bluetooth technology, to an interface device to display on a standard fetal monitor.",
+   "Policy Number": "L&D-E114",
+   "Policy Title": "Fetal Monitoring, Management of the Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Intermittent Auscultation (IA)",
+   "Definition": "Use of an auscultation device, most commonly a handheld Doppler device, for periodic assessment of the fetal heart rate (FHR) during labor in conjunction with manual palpation to assess uterine contractions.",
+   "Policy Number": "L&D-E114",
+   "Policy Title": "Fetal Monitoring, Management of the Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Telemetry Fetal Monitoring",
+   "Definition": "Continuous FHR and uterine activity monitoring when the patient is out of bed. The telemetry box is connected to the patient and transmits a FHR and uterine activity signal to the receiver where it is displayed on the bedside and central monitor. This allows the patient to ambulate without the loss of continuous monitoring data.",
+   "Policy Number": "L&D-E114",
+   "Policy Title": "Fetal Monitoring, Management of the Patient Receiving.",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Placenta",
+   "Definition": "A placenta is one of the organs of the reproductive track that is expelled or manually removed following the delivery of an infant/s. A common name is afterbirth.",
+   "Policy Number": "L&D-E140",
+   "Policy Title": "Placenta Release to Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Medical Waste",
+   "Definition": "Maryland statute excludes placentas that are released to a parent from regulations governing disposal of medical waste (COMAR section 10.06.06.01; Scope: Communicable Disease Prevention--Handling, Treatment, and Disposal of Special Medical Waste).",
+   "Policy Number": "L&D-E140",
+   "Policy Title": "Placenta Release to Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Analgesia",
+   "Definition": "Pain relief with or without partial sensory changes. A motor block does not usually occur.",
+   "Policy Number": "L&D-E132",
+   "Policy Title": "Regional Analgesia, Management of Laboring Patient with...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Analgesics",
+   "Definition": "Drugs that relieve pain.",
+   "Policy Number": "L&D-E132",
+   "Policy Title": "Regional Analgesia, Management of Laboring Patient with...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Breakthrough Pain",
+   "Definition": "Pain that breaks through an existing analgesia regimen.",
+   "Policy Number": "L&D-E132",
+   "Policy Title": "Regional Analgesia, Management of Laboring Patient with...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Neuraxial",
+   "Definition": "Intrathecal and epidural route.",
+   "Policy Number": "L&D-E132",
+   "Policy Title": "Regional Analgesia, Management of Laboring Patient with...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Regional Analgesia/Anesthesia",
+   "Definition": "Blocks pain or lessens pain in a specific region of the body (e.g., below the waist). They include but not limited to epidural, spinal, and combined spinal-epidural (CSE) analgesia/anesthesia and peripheral nerve blocks.",
+   "Policy Number": "L&D-E132",
+   "Policy Title": "Regional Analgesia, Management of Laboring Patient with...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Epidural",
+   "Definition": "Analgesic/anesthetic is injected into the epidural space. Epidural analgesia includes intermittent dosing, continuous infusion, and patient-controlled analgesia and involves the administration of local anesthetics, opioids, and/or adjuvant drugs.",
+   "Policy Number": "L&D-E132",
+   "Policy Title": "Regional Analgesia, Management of Laboring Patient with...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Spinal or intrathecal",
+   "Definition": "Analgesic is injected into the subarachnoid (dura) space.",
+   "Policy Number": "L&D-E132",
+   "Policy Title": "Regional Analgesia, Management of Laboring Patient with...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Combined spinal-epidural (CSE)",
+   "Definition": "Analgesic injected into the subarachnoid space followed by analgesic/anesthetic injected into epidural space via intermittent dosing followed by continuous infusion.",
+   "Policy Number": "L&D-E132",
+   "Policy Title": "Regional Analgesia, Management of Laboring Patient with...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Atony",
+   "Definition": "Relaxation of the uterus to the point at which it lacks normal muscle tone or tension.",
+   "Policy Number": "L&D-E170",
+   "Policy Title": "Vaginal Delivery, Care of Patient during Recovery",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Lochia",
+   "Definition": "Vaginal discharge during the postpartum period. It consists of blood, tissue shed from the lining of the uterus, and mucus.",
+   "Policy Number": "L&D-E170",
+   "Policy Title": "Vaginal Delivery, Care of Patient during Recovery",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Postpartum",
+   "Definition": "The postpartum period, also known as the puerperium and the \"fourth trimester,\" refers to the time after birth when maternal physiologic changes related to pregnancy return to the nonpregnant state.",
+   "Policy Number": "L&D-E170",
+   "Policy Title": "Vaginal Delivery, Care of Patient during Recovery",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Uterine Involution",
+   "Definition": "The return of the uterus to the nonpregnant state.",
+   "Policy Number": "L&D-E170",
+   "Policy Title": "Vaginal Delivery, Care of Patient during Recovery",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Severe Hypertension during Pregnancy and Postpartum",
+   "Definition": "Two BP values (Systolic BP >= 160 mm Hg, Diastolic BP >= 110 mm Hg, or both) persistent for 15 minutes but less than 60 minutes. BP values do not need to be consecutive.",
+   "Policy Number": "OBGYN002",
+   "Policy Title": "Emergent Anti-hypertensive Drugs (IV and Oral), Management in the Obstetric Patient",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Loading dose of fosphenytoin",
+   "Definition": "A dose of fosphenytoin designed to rapidly achieve a therapeutic concentration in the following settings: For initiation of therapy in a patient with a presumed phenytoin blood concentration of zero, the usual loading dose is 15-20 mg phenytoin equivalents (PE) per kg in adult patients. See Appendix A for pediatric dosing. See Appendix B for obstetrical patient dosing. To increase levels in a patient already receiving enteral phenytoin or IV fosphenytoin with subtherapeutic levels; a loading dose is dependent on patient and drug level.",
+   "Policy Number": "MDU011",
+   "Policy Title": "Fosphenytoin IV, Management of the Patient Receiving",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Intermittent/ Maintenance dose of fosphenytoin",
+   "Definition": "Scheduled doses of fosphenytoin designed to maintain therapeutic concentration. The usual maintenance dose is 4-6 PE mg /kg/day in 2-3 divided doses, but higher doses may be required based on drug level monitoring. See Appendix A for pediatric dosing. See Appendix B for obstetrical patient dosing.",
+   "Policy Number": "MDU011",
+   "Policy Title": "Fosphenytoin IV, Management of the Patient Receiving",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Phenytoin Equivalent (PE)",
+   "Definition": "Expression of fosphenytoin dosing. (Fosphenytoin 1 mg PE = Phenytoin 1 mg)",
+   "Policy Number": "MDU011",
+   "Policy Title": "Fosphenytoin IV, Management of the Patient Receiving",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Diabetic Ketoacidosis (DKA)",
+   "Definition": "Complication resulting from an absolute or relative deficiency in insulin. It occurs most frequently in Type 1 diabetic patients but can occur in Type 2 diabetic patients. Clinical presentation of DKA in pregnancy includes abdominal pain, nausea and vomiting, and altered sensorium. Laboratory data commonly include: Hyperglycemia (blood glucose greater than 200 mg/dL), Positive serum ketones, Low arterial pH (less than 7.3), Low serum bicarbonate level (less than 15 mEq/L), Dehydration, Abnormal electrolytes: particularly K+, Na+, Phos, and an elevated anion gap",
+   "Policy Number": "OBMED-E210",
+   "Policy Title": "Insulin Infusion (Continuous, IV), Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Type 1 Diabetes Mellitus",
+   "Definition": "Characterized by an autoimmune process that causes the pancreas to produce little or no insulin. The onset usually occurs earlier in life resulting in the need for exogenous insulin to control hyperglycemia.",
+   "Policy Number": "OBMED-E210",
+   "Policy Title": "Insulin Infusion (Continuous, IV), Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Type 2 Diabetes Mellitus",
+   "Definition": "Characterized by a condition in which insulin is produced by the pancreas, but it may not work properly due to insulin resistance in the body. Hypoglycemic agents and/or exogenous insulin may be needed to control hyperglycemia.",
+   "Policy Number": "OBMED-E210",
+   "Policy Title": "Insulin Infusion (Continuous, IV), Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Gestational Diabetes Mellitus (GDM)",
+   "Definition": "A condition in which carbohydrate intolerance develops during pregnancy as a result of the effects of several placental hormones. Gestational diabetes is controlled by diet, exercise, and/or medication to achieve euglycemia.",
+   "Policy Number": "OBMED-E210",
+   "Policy Title": "Insulin Infusion (Continuous, IV), Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Hypoglycemia",
+   "Definition": "Blood glucose less than or equal to 70 mg/dL. Signs and symptoms of hypoglycemia include change in mental status, diaphoresis, lethargy, weakness, shakiness, and disorientation.",
+   "Policy Number": "OBMED-E210",
+   "Policy Title": "Insulin Infusion (Continuous, IV), Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Hyperglycemia",
+   "Definition": "Blood glucose greater than or equal to 200 mg/dL. Signs and symptoms of hyperglycemia include nausea/vomiting, warm flushed skin, acetone breath, Kussmaul�s respirations, tachypnea, hypotension, and altered level of consciousness.",
+   "Policy Number": "OBMED-E210",
+   "Policy Title": "Insulin Infusion (Continuous, IV), Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Adequate Contraction Pattern",
+   "Definition": "Five or fewer contractions in 10 minutes, averaged over a 30-minute window, each contraction lasting at least 40 seconds with moderate intensity by palpation or greater than 200 MVUs by intrauterine pressure catheter (IUPC), and resting tone soft by palpation with an average relaxation time of at least 60 seconds.",
+   "Policy Number": "OBMED-E224",
+   "Policy Title": "Oxytocin (Continuous IV) Infusion for Induction or Augmentation of Labor, Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Augmentation of Labor",
+   "Definition": "The use of pharmacologic methods or artificial rupture of membranes to increase the frequency and/or strength of uterine contractions after the spontaneous onset of labor.",
+   "Policy Number": "OBMED-E224",
+   "Policy Title": "Oxytocin (Continuous IV) Infusion for Induction or Augmentation of Labor, Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Induction of Labor",
+   "Definition": "The use of pharmacologic and/or mechanical methods to initiate uterine contractions before the spontaneous onset of labor.",
+   "Policy Number": "OBMED-E224",
+   "Policy Title": "Oxytocin (Continuous IV) Infusion for Induction or Augmentation of Labor, Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Montevideo's Units (MVUs)",
+   "Definition": "Quantitative measurement of uterine contraction intensity measured by an internal pressure catheter (IUPC). MVUs are derived by subtracting the resting tone from the peak pressure (mm Hg) for each contraction that occurs in a 10-minute period. The calculated numbers are then added together for the total number of MVUs in that 10-minute period. Adequate uterine contractions during the active phase of labor (? 6 cms cervical dilation) usually measure between 200 and 395 MVUs.",
+   "Policy Number": "OBMED-E224",
+   "Policy Title": "Oxytocin (Continuous IV) Infusion for Induction or Augmentation of Labor, Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Normal Contractions",
+   "Definition": "Five (5) or fewer contractions in 10 minutes, averaged over a 30-minute window.",
+   "Policy Number": "OBMED-E224",
+   "Policy Title": "Oxytocin (Continuous IV) Infusion for Induction or Augmentation of Labor, Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Spontaneous Labor",
+   "Definition": "Uterine contractions resulting in cervical dilation and effacement without the use of pharmacologic and/or mechanical interventions to initiate labor.",
+   "Policy Number": "OBMED-E224",
+   "Policy Title": "Oxytocin (Continuous IV) Infusion for Induction or Augmentation of Labor, Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Tachysystole",
+   "Definition": "More than 5 contractions in a 10-minute period, averaged over a 30-minute window.",
+   "Policy Number": "OBMED-E224",
+   "Policy Title": "Oxytocin (Continuous IV) Infusion for Induction or Augmentation of Labor, Management of the Obstetric Patient Receiving...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Double Set-up",
+   "Definition": "A two-method procedure in which the 1st team is prepared for an uneventful procedure and the 2nd team is prepared to perform a cesarean delivery. A double set-up procedure provides the space, equipment, and personnel needed to perform a cesarean delivery in the event of maternal-fetal complications.",
+   "Policy Number": "LDOR-E310",
+   "Policy Title": "Double Set-Up, Preparing for a...",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Atony",
+   "Definition": "Relaxation of the uterus to the point at which it lacks normal muscle tone or tension.",
+   "Policy Number": "LDOR-E350",
+   "Policy Title": "Post-Anesthesia Care, Phase I and Phase II, Management of Obstetric Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Lochia",
+   "Definition": "Vaginal discharge during the postpartum period. It consists of blood, tissue shed from the lining of the uterus, and mucus.",
+   "Policy Number": "LDOR-E350",
+   "Policy Title": "Post-Anesthesia Care, Phase I and Phase II, Management of Obstetric Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "PACU Phase I",
+   "Definition": "The nursing role in this phase focuses on providing post-anesthesia/sedation nursing care in the immediate recovery period and transitioning patients to Phase II, the inpatient setting, or to an intensive care setting for continued care. Basic life-sustaining needs are of the highest priority. Constant vigilance is required during this phase.",
+   "Policy Number": "LDOR-E350",
+   "Policy Title": "Post-Anesthesia Care, Phase I and Phase II, Management of Obstetric Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "PACU Phase II",
+   "Definition": "The nursing role in this phase focuses on preparation for discharge to home or an extended care environment.",
+   "Policy Number": "LDOR-E350",
+   "Policy Title": "Post-Anesthesia Care, Phase I and Phase II, Management of Obstetric Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "PACU Extended Care",
+   "Definition": "The nursing role in this phase focuses on providing care after meeting criteria for discharge from Phase I, and prior to the patient going home or transferring to an inpatient setting. Extended care may also pertain in Phase II when a prolonged delay occurs after the patient has met Phase II discharge criteria but encounters delay prior to going home.",
+   "Policy Number": "LDOR-E350",
+   "Policy Title": "Post-Anesthesia Care, Phase I and Phase II, Management of Obstetric Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Postpartum",
+   "Definition": "The postpartum period, also known as the puerperium and the \"fourth trimester,\" refers to the time after birth when maternal physiologic changes related to pregnancy return to the nonpregnant state.",
+   "Policy Number": "LDOR-E350",
+   "Policy Title": "Post-Anesthesia Care, Phase I and Phase II, Management of Obstetric Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Uterine Involution",
+   "Definition": "The return of the uterus to the nonpregnant state.",
+   "Policy Number": "LDOR-E350",
+   "Policy Title": "Post-Anesthesia Care, Phase I and Phase II, Management of Obstetric Patients",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Fetal Testing",
+   "Definition": "Fetal surveillance during the antepartum period used to evaluate the fetal status. Testing methods include nonstress test, biophysical profile, modified biophysical profile, and Doppler ultrasound exam of the umbilical artery.",
+   "Policy Number": "JHMNIPO003",
+   "Policy Title": "Non-Prescriber Initiated Patient Orders/Order Set (NIPO) for Fetal Testing at GYN/OB Ambulatory Practice Sites",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Amniotic Fluid Index (AFI)",
+   "Definition": "An estimate of the amniotic fluid volume in a pregnant uterus. AFI is calculated by summing the depth in centimeters of 4 different pockets of fluid not containing cord or fetal extremities in 4 abdominal quadrants. An amniotic fluid index (AFI) between 5-25 cm is considered normal. Oligohydramnios is defined when the single deepest vertical pocket of amniotic fluid is < 2cm.",
+   "Policy Number": "JHMNIPO003",
+   "Policy Title": "Non-Prescriber Initiated Patient Orders/Order Set (NIPO) for Fetal Testing at GYN/OB Ambulatory Practice Sites",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Biophysical Profile (BPP)",
+   "Definition": "The BPP consists of an NST combined with four observations made by real-time ultrasonography. See Gyn/Ob Biophysical Profile Procedure (FAC-E506) procedure.",
+   "Policy Number": "JHMNIPO003",
+   "Policy Title": "Non-Prescriber Initiated Patient Orders/Order Set (NIPO) for Fetal Testing at GYN/OB Ambulatory Practice Sites",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Modified Biophysical Profile",
+   "Definition": "Combines the NST with AFI as an indicator of long-term placental function. The results of the modified BPP are considered normal if the NST is reactive and a single deepest pocket > 2cm.",
+   "Policy Number": "JHMNIPO003",
+   "Policy Title": "Non-Prescriber Initiated Patient Orders/Order Set (NIPO) for Fetal Testing at GYN/OB Ambulatory Practice Sites",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Nonstress Test (NST)",
+   "Definition": "A test that measures the fetal heart rate response to movement. Heart rate reactivity is thought to be a good indicator of normal fetal autonomic function. See Gyn/Ob Nonstress Test (NST) Procedure (FAC-E520) procedure.",
+   "Policy Number": "JHMNIPO003",
+   "Policy Title": "Non-Prescriber Initiated Patient Orders/Order Set (NIPO) for Fetal Testing at GYN/OB Ambulatory Practice Sites",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Umbilical Artery (UA) Doppler Velocimetry",
+   "Definition": "Doppler ultrasonography is a noninvasive technique used to assess components of vascular resistance to blood flow from the fetus to the placenta. The umbilical flow velocity waveform of normally growing fetuses is characterized by high-velocity diastolic flow, whereas in growth-restricted fetuses, there is decreased umbilical artery diastolic flow. Doppler velocimetry generally have defined abnormal flow as elevated systolic",
+   "Policy Number": "JHMNIPO003",
+   "Policy Title": "Non-Prescriber Initiated Patient Orders/Order Set (NIPO) for Fetal Testing at GYN/OB Ambulatory Practice Sites",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Fetal Testing",
+   "Definition": "Fetal surveillance during the antepartum period used to evaluate the fetal status. Testing methods include nonstress test (NST), biophysical profile (BPP), modified biophysical profile, and Doppler ultrasound exam of the umbilical artery. See Non-Prescriber Initiated Patient Orders/Order Set (NIPO) for Fetal Testing at GYN/OB Ambulatory Practice Sites (JHMNIPO003).",
+   "Policy Number": "JHMNIPO008",
+   "Policy Title": "Non-Prescriber Initiated Patient Orders (NIPO) for Obstetric Ultrasound at GYN/OB Ambulatory Practice Sites",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Obstetric Ultrasound",
+   "Definition": "Refers to the use of ultrasound to visualize and determine the condition of a pregnant woman and her fetus. Obstetric ultrasound examinations are performed with a transabdominal, transvaginal, or transperineal approach. If a transabdominal examination is not definitive, a transvaginal or transperineal scan is recommended. See below for ultrasound examinations with associated CPT codes pertaining to this policy.",
+   "Policy Number": "JHMNIPO008",
+   "Policy Title": "Non-Prescriber Initiated Patient Orders (NIPO) for Obstetric Ultrasound at GYN/OB Ambulatory Practice Sites",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Adding an Ultrasound Order",
+   "Definition": "Adding an ultrasound exam refers to an add-on of another ultrasound exam to an existing order.",
+   "Policy Number": "JHMNIPO008",
+   "Policy Title": "Non-Prescriber Initiated Patient Orders (NIPO) for Obstetric Ultrasound at GYN/OB Ambulatory Practice Sites",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Modifying an Ultrasound Order",
+   "Definition": "Modifying an ultrasound exam refers to changing the existing order to another exam order.",
+   "Policy Number": "JHMNIPO008",
+   "Policy Title": "Non-Prescriber Initiated Patient Orders (NIPO) for Obstetric Ultrasound at GYN/OB Ambulatory Practice Sites",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Types of Obstetric Ultrasound Examinations",
+   "Definition": "The American Institute of Ultrasound in Medicine (AIUM) and American College of Obstetricians and Gynecologists have identified three types of obstetric ultrasound examinations performed during pregnancy: standard (basic), limited, and specialized. 1. Standard (basic) obstetric ultrasound: - First trimester: includes an evaluation of the presence, size, location, and number of gestational sac(s). The gestational sac is examined for the presence of yolk sac and embryo/fetus. - Second or third trimester: includes an evaluation of fetal number, cardiac activity, presentation, amniotic fluid volume, placental position, fetal biometry, and an anatomic survey. The maternal cervix and adnexa should be examined. 2. Limited Ultrasound Examination - A limited obstetric ultrasound examination is performed to answer a specific, acute clinical question. For example, a limited examination may be performed to confirm fetal heart activity, placental location, or fetal presentation; estimate amniotic fluid volume; evaluate the cervix; assess embryonic or fetal viability. 3. Specialized Ultrasound Examination - A detailed ultrasound examination is performed on women at risk for fetal anatomic or genetic abnormalities or when an anomaly is suspected on the basis of history, abnormal biochemical markers, or the results of either a limited or standard scan. See Appendix B. - Other specialized ultrasound exams may include a fetal echocardiogram, biophysical profile, and fetal Doppler ultrasound, or additional biometric measurements including nuchal translucency (NT) and cervical length.",
+   "Policy Number": "JHMNIPO008",
+   "Policy Title": "Non-Prescriber Initiated Patient Orders (NIPO) for Obstetric Ultrasound at GYN/OB Ambulatory Practice Sites",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Early Pregnancy Loss (EPL)",
+   "Definition": "A nonviable, intrauterine pregnancy with either an empty gestational sac or a gestational sac containing an embryo or fetus without fetal heart activity within the first 12 6/7 weeks of gestation.",
+   "Policy Number": "OBGYN006",
+   "Policy Title": "Medical Management of Early Pregnancy Loss with Misoprostol or Misoprostol & Mifepristone",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Incomplete Abortion",
+   "Definition": "Partial passage of products of conception; open cervical os, uterus not well contracted; variable vaginal bleeding; pregnancy nonviable.",
+   "Policy Number": "OBGYN006",
+   "Policy Title": "Medical Management of Early Pregnancy Loss with Misoprostol or Misoprostol & Mifepristone",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Inevitable Abortion",
+   "Definition": "Open cervical os without passage of products of conception; pregnancy nonviable.",
+   "Policy Number": "OBGYN006",
+   "Policy Title": "Medical Management of Early Pregnancy Loss with Misoprostol or Misoprostol & Mifepristone",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "FastStart Depo-Provera",
+   "Definition": "Injection of Depo-Provera� on the same day of the office/clinic visit during which the patient requests it. It has also been referred to as �Same Day Start� and �Quick Start�.",
+   "Policy Number": "OPD-E120",
+   "Policy Title": "Medroxyprogesterone Acetate (Depo-Provera), Intramuscular Administration",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Telephone Triage",
+   "Definition": "Process that involves identifying the nature and urgency of patient medical needs over the telephone and implementing standardized protocols to ensure that patients are directed toward the appropriate level of care or service. The telephone triage process involves: � Data collection � Assessment � Analysis and synthesis of information � Physician intervention, including directives for where and when treatment should take place � Follow-up. The process of telephone triage can be guided by protocols developed for specific problems that the patient reports.",
+   "Policy Number": "OPD-E188",
+   "Policy Title": "Telephone Encounter/Phone Triage in the Women's Health Clinic",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Registered Patient",
+   "Definition": "Any patient that has an active JHM Chart in Epic. The patient may or may not be an active patient in the GYN/OB Clinic.",
+   "Policy Number": "OPD-E188",
+   "Policy Title": "Telephone Encounter/Phone Triage in the Women's Health Clinic",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Unregistered Patient",
+   "Definition": "Any patient that does not have an active JHM chart in Epic.",
+   "Policy Number": "OPD-E188",
+   "Policy Title": "Telephone Encounter/Phone Triage in the Women's Health Clinic",
+   "Section": "JHM GYNIOB Interdisciplinary Clinical Practice Manual Obstetrics: Antepartum/Postpartum"
+ },
+ {
+   "Term": "Central Venous Access Device (CVAD)",
+   "Definition": "For the purposes of this policy, central venous access devices refer to central lines (e.g., Hickmans, Groshong), implanted ports, and peripherally inserted central catheters (PICCs).",
+   "Policy Number": "GEN019",
+   "Policy Title": "Contrast Administration in Radiation Oncology: Process and Management of Patient Receiving",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ },
+ {
+   "Term": "Contrast Reaction",
+   "Definition": "An allergic-like event experienced by a patient after receiving contrast media. These reactions can be mild, moderate, or severe.",
+   "Policy Number": "GEN019",
+   "Policy Title": "Contrast Administration in Radiation Oncology: Process and Management of Patient Receiving",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ },
+ {
+   "Term": "Enteral",
+   "Definition": "Involving passing through the intestines, either naturally or through an artificial opening.",
+   "Policy Number": "GEN019",
+   "Policy Title": "Contrast Administration in Radiation Oncology: Process and Management of Patient Receiving",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ },
+ {
+   "Term": "eGFR",
+   "Definition": "Estimated glomerular filtration rate. A lab value used to assess function of the kidneys.",
+   "Policy Number": "GEN019",
+   "Policy Title": "Contrast Administration in Radiation Oncology: Process and Management of Patient Receiving",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ },
+ {
+   "Term": "Extravasation",
+   "Definition": "The leakage of a vesicant drug into the subcutaneous or surrounding tissue that is capable of causing pain, necrosis and/or sloughing of the tissue and/or various degrees of tissue damage.",
+   "Policy Number": "GEN019",
+   "Policy Title": "Contrast Administration in Radiation Oncology: Process and Management of Patient Receiving",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ },
+ {
+   "Term": "Power injectable catheter",
+   "Definition": "A medical device that has been approved by the FDA for use with a power/pressure injector for contrast administration.",
+   "Policy Number": "GEN019",
+   "Policy Title": "Contrast Administration in Radiation Oncology: Process and Management of Patient Receiving",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ },
+ {
+   "Term": "Radiation Therapist",
+   "Definition": "A licensed radiation therapist. They are not qualified to interpret any radiological exam.",
+   "Policy Number": "GEN019",
+   "Policy Title": "Contrast Administration in Radiation Oncology: Process and Management of Patient Receiving",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ },
+ {
+   "Term": "Vesicant Drugs",
+   "Definition": "Agents which have the potential to cause blistering or tissue necrosis if they leak into the tissue surrounding a blood vessel or venous access device. Contrast media is a vesicant.",
+   "Policy Number": "GEN019",
+   "Policy Title": "Contrast Administration in Radiation Oncology: Process and Management of Patient Receiving",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ },
+ {
+   "Term": "Authorized Prescriber",
+   "Definition": "Authorized prescribers include: residents, nurse practitioners, physician assistants, and attending physicians.",
+   "Policy Number": "GEN019",
+   "Policy Title": "Contrast Administration in Radiation Oncology: Process and Management of Patient Receiving",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ },
+ {
+   "Term": "APP",
+   "Definition": "Advanced Practice Provider (Nurse Practitioner, Physician Assistant)",
+   "Policy Number": "GEN008",
+   "Policy Title": "Department Policy on Nursing Orientation & Competency Policy",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ },
+ {
+   "Term": "Radiopharmaceutical",
+   "Definition": "A radioactive drug used for diagnostic or therapeutic purposes",
+   "Policy Number": "GEN036",
+   "Policy Title": "Radiopharmaceutical Therapy",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ },
+ {
+   "Term": "Volunteer",
+   "Definition": "JHHS, or entity, trainee or staff member who has offered to have MRI scan completed without compensation and without direct medical benefit.",
+   "Policy Number": "MRI001",
+   "Policy Title": "MR Nonclinical Nonresearch Imaging in Radiation Oncology",
+   "Section": "JHM Radiation Oncology Interdisciplinary Clinical Practice Manual General"
+ }
+]
