@@ -24,7 +24,7 @@ app.post('/api/expand', async (req, res) => {
         },
       ],
       model: "mixtral-8x7b-32768",
-      max_tokens: 100,
+      max_tokens: 200,
       temperature: 0.7,
     });
     res.json({ expanded: chatCompletion.choices[0]?.message?.content.trim() || "" });
@@ -45,7 +45,7 @@ app.post('/api/find-references', async (req, res) => {
         },
       ],
       model: "mixtral-8x7b-32768",
-      max_tokens: 100,
+      max_tokens: 200,
       temperature: 0.7,
     });
     res.json({ references: chatCompletion.choices[0]?.message?.content.trim() || "" });
