@@ -13,7 +13,7 @@ function ResultDisplay({ result, darkMode }) {
       setIsLoading(true);
       setError('');
       try {
-        const response = await fetch('http://localhost:5000/api/expand', {
+        const response = await fetch('/api/expand', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ term: result.Term, definition: result.Definition }),
@@ -37,7 +37,7 @@ function ResultDisplay({ result, darkMode }) {
       setIsLoading(true);
       setError('');
       try {
-        const response = await fetch('http://localhost:5000/api/find-references', {
+        const response = await fetch('/api/find-references', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ term: result.Term }),
